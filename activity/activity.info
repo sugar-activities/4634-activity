@@ -1,0 +1,7 @@
+[Activity]
+name = Oopsy
+activity_version = 1
+bundle_id = org.sugarlabs.oopsy
+exec = sugar-activity activity.Oopsy -s
+icon = drawing
+license = GPLv3+
